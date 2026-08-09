@@ -19,7 +19,7 @@
 
 ---
 
-### Linguagens e Tecnogias
+## Linguagens e Tecnogias
 
 <img
     align="left"
@@ -63,17 +63,17 @@ align="left"
 
 ---
 
-### 📈Estatísticas
+## 📈Estatísticas
 <img
     align="left"
-    width="300px"
+    width="400px"
     style="padding-right: 10px;"
     src="https://github-stats-extended.vercel.app/api?username=RicardoV1e1r4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
 <img
     align="left"
-    width="300px"
+    width="400px"
     style="padding-right: 10px;"
     src="https://github-stats-extended.vercel.app/api/top-langs?username=RicardoV1e1r4&show_icons=true&theme=tokyonight&include_all_commits=true&layout=compact&custom_title=Tecnologias&locale=pt-br"
 />
