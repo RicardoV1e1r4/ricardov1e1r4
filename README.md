@@ -48,6 +48,15 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
 />
 
+<img
+    align="left"
+    alt="LaTex"
+    title="LaTex"
+    width="30px"
+    style="padding-right: 20px;"
+    src="https://devicon-website.vercel.app/api/latex/original.svg"
+/>
+
 <br/>
 <br/>
 <br/>
@@ -57,15 +66,15 @@ align="left"
 ### 📈Estatísticas
 <img
     align="left"
-    width="1000px"
-    style="padding-right: 50px;"
+    width="300px"
+    style="padding-right: 10px;"
     src="https://github-stats-extended.vercel.app/api?username=RicardoV1e1r4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
 <img
     align="left"
-    width="1000px"
-    style="padding-right: 50px;"
+    width="300px"
+    style="padding-right: 10px;"
     src="https://github-stats-extended.vercel.app/api/top-langs?username=RicardoV1e1r4&show_icons=true&theme=tokyonight&include_all_commits=true&layout=compact&custom_title=Tecnologias&locale=pt-br"
 />
 
