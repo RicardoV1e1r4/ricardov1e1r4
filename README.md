@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, sou o Ricardo Alexandre
 
 <!--
 **RicardoV1e1r4/ricardov1e1r4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
