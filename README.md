@@ -19,7 +19,7 @@
 
 ---
 
-## Linguagens e Tecnogias
+## Linguagens e Tecnologias
 
 <img
     align="left"
@@ -48,6 +48,7 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg"
 />
 
+<!--
 <img
     align="left"
     alt="LaTex"
@@ -55,6 +56,25 @@ align="left"
     width="30px"
     style="padding-right: 20px;"
     src="https://devicon-website.vercel.app/api/latex/original.svg"
+/>
+-->
+
+<img
+align="left"
+    alt="Octave"
+    title="Octave"
+    width="48px"
+    style="padding-right: 20px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+/>
+
+<img
+    align="left"
+    alt="AutoCad"
+    title="AutoCad"
+    width="148px"
+    style="padding-right: 20px;"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/AutoCad_new_logo.svg/960px-AutoCad_new_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20230909074936"
 />
 
 <br/>
@@ -66,7 +86,7 @@ align="left"
 ## 📈Estatísticas
 <img
     align="left"
-    width="400px"
+    width="450px"
     style="padding-right: 10px;"
     src="https://github-stats-extended.vercel.app/api?username=RicardoV1e1r4&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
