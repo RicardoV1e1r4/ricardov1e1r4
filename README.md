@@ -9,7 +9,7 @@
         <img alt="LinkedIn" title="LinkedIn"
              src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logoSource=feather&logo=linkedin" />
     </a>
-    <a href="mailto:[SEU-EMAIL]">
+    <a href="mailto:ricardoalexandre7952@gmail.com">
         <img alt="E-mail" title="E-mail"
              src="https://img.shields.io/badge/E--mail-red?logo=gmail&logoColor=white" />
     </a>
