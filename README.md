@@ -40,6 +40,41 @@ Tenho interesse em **processamento de sinais**, **comunicações sem fio** e **p
 
 ---
 
+## 📊 Alguns resultados
+
+<!--
+As imagens abaixo precisam estar na pasta "assets/" deste repositório (ricardov1e1r4).
+Arquivos de origem:
+- ic-canal-acustico.png    <- Iniciacao-Cientifica/acoustic-communications/python-program/time_varying_impulse_response_3d.png
+- arranjos-beampattern.png <- Projeto_Arranjos/figures/beampattern_upa_heatmap.png
+- motor-inducao.png        <- Controles-e-Servomecanismos/Modelagem-motores/Motor Inducao Trifasico/motorInducao_simulacao.png
+-->
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/RicardoV1e1r4/Iniciacao-Cientifica">
+        <img src="assets/ic-canal-acustico.png" width="100%" alt="Resposta ao impulso do canal acústico subaquático" />
+      </a>
+      <br /><sub><b>Canal acústico subaquático</b><br />Resposta ao impulso com Doppler</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/RicardoV1e1r4/Projeto_Arranjos">
+        <img src="assets/arranjos-beampattern.png" width="100%" alt="Beampattern de arranjos planares UPA" />
+      </a>
+      <br /><sub><b>Arranjos de antenas</b><br />Beampattern de arranjos planares</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/RicardoV1e1r4/Controles-e-Servomecanismos">
+        <img src="assets/motor-inducao.png" width="100%" alt="Simulação da partida do motor de indução trifásico" />
+      </a>
+      <br /><sub><b>Motor de indução</b><br />Simulação da partida direta</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Linguagens e Tecnologias
 
 <p align="left">
