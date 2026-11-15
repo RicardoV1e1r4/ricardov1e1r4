@@ -19,7 +19,7 @@
 
 ## Sobre mim
 
-Estudante de **Engenharia de Telecomunicações** na **Univercidade Ferderal de Ciência e Inovação do Rio de Janeiro - UFCIRJ**, no 7º período, com formatura prevista para o **1º semestre de 2028**.
+Estudante de **Engenharia de Telecomunicações** na **Universidade Federal de Ciência e Inovação do Rio de Janeiro - UFCIRJ**, no 7º período, com formatura prevista para o **1º semestre de 2028**.
 
 Tenho interesse em **processamento de sinais**, **comunicações sem fio** e **propagação de ondas**. Na Iniciação Científica, trabalho com modelagem de canais de comunicação acústica subaquática e com simulações no GNU Radio.
 
